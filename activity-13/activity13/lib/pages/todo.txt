@@ -1,0 +1,1 @@
+create a seasonal theme class, that changes the theme of the app based on the time of year, primarily if we are in holiday season.
